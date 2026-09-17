@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Data and model weights are large; they are never committed.
+data/raw/
+data/processed/
+models/*.pt
+models/*.pth
+
+# Generated run artefacts
+outputs/*.json
+outputs/*.csv
+outputs/*.md
+outputs/*.log
+outputs/figures/*.png
+!outputs/figures/.gitkeep
+
+.DS_Store
+.idea/
+.vscode/
+
+# Generated demo images (recreate with scripts/make_demo_images.py)
+samples/

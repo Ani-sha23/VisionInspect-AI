@@ -1,0 +1,13 @@
+# Core runtime (pipeline, CLI, reports) — installs on CPU-only machines.
+numpy>=1.24
+opencv-python-headless>=4.8
+pandas>=2.0
+PyYAML>=6.0
+matplotlib>=3.7
+
+# Testing
+pytest>=7.4
+
+# Training only. Install separately if you intend to train the U-Net:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   (or the CUDA build matching your GPU / use Kaggle-Colab where torch is preinstalled)

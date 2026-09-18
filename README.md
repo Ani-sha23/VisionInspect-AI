@@ -90,7 +90,7 @@ The project separates **data preparation, preprocessing, detection, severity log
 
 ---
 
-# ❗ Problem Statement
+#  Problem Statement
 
 Industrial steel surfaces may contain visual defects such as cracks, scratches, inclusions and other surface irregularities.
 
@@ -126,13 +126,14 @@ The main objectives of VisionInspect-AI are:
 10. **Provide both deep-learning and classical-CV inspection paths**
 
 ---
+# Key Features
 
-![Uploading image.png…]()
+<img width="472" height="278" alt="image" src="https://github.com/user-attachments/assets/22043519-3f7c-4ccb-874c-9c04ecd5d663" />
 
 
 ---
 
-# 🔄 System Workflow
+#  System Workflow
 
 ```text
                     ┌──────────────────────┐
@@ -194,7 +195,7 @@ The main objectives of VisionInspect-AI are:
                     │ JSON / CSV / MD / PNG│
                     └──────────────────────┘
 
-🏗️ Architecture
+ Architecture
 
 VisionInspect-AI follows a modular architecture:
 
@@ -241,7 +242,7 @@ VisionInspect-AI follows a modular architecture:
 │  └── PNG Visualization                                     │
 │                                                           │
 └───────────────────────────────────────────────────────────┘
-🧠 Model Design
+ Model Design
 Multi-Label U-Net
 
 The deep-learning component uses a compact U-Net architecture for pixel-level segmentation.
@@ -303,7 +304,7 @@ Thresholded Defect Masks
 
 This allows different defect categories to be represented independently.
 
-📐 Training Objective
+ Training Objective
 
 The training objective combines Binary Cross-Entropy and Dice Loss:
 

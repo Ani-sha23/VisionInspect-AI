@@ -1,4 +1,6 @@
-🔍 VisionInspect-AI
+# **VisionInspect-AI**
+<img width="508" height="290" alt="image" src="https://github.com/user-attachments/assets/6d3205d0-7958-4262-aa35-a62b5f34b2f2" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-Industrial%20Inspection-0A66C2?style=for-the-badge" alt="Computer Vision">

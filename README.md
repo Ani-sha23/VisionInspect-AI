@@ -41,7 +41,7 @@
 | CLI (`inspect-data`, `prepare-data`, `calibrate`, `train`, `run`, `evaluate`) | 100% implemented |
 | Automated test suite | 100% implemented |
 | Documentation (architecture, ADRs, training guide, submission checklist) | 100% complete |
-| Full-scale GPU training run & held-out test metrics | Ready to execute — see [Evaluation](#evaluation) |
+| Full-scale GPU training run & held-out test metrics | Ready to execute |
 
 The last row is an *experiment to run*, not code left to write: the `train` and `evaluate` commands are fully built, and running them on a GPU is the only remaining step before the final numbers in the Evaluation section can be filled in. This distinction is kept explicit throughout the README so that anyone reading it — instructors included — can see exactly what "done" means at each level.
 

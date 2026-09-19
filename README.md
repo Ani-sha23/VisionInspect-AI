@@ -1049,7 +1049,7 @@ This makes the project suitable for demonstrating concepts from:
 | Course | Computer Vision |
 | Project Type | Computer Vision - Evaluated Project |
 | Student | Anisha Garg |
-| Registration Number | 24BAI1037 |
+| Registration Number | 24BAI10375 |
 | Program | B.Tech Computer Science Engineering |
 | Specialization | Artificial Intelligence & Machine Learning |
 

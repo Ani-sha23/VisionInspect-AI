@@ -1072,5 +1072,5 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 
 <p align="center">
 <b>Final Project Summary</b><br>
-VisionInspect-AI is a modular industrial computer-vision inspection framework that transforms steel-surface images into structured inspection evidence by detecting and localizing defects, estimating configurable severity, applying quality-decision rules, evaluating model behavior, and generating reproducible inspection reports.
+VisionInspect-AI is a modular industrial computer-vision inspection framework that transforms steel-surface images into structured inspection evidence by detecting and localizing defects, estimating configurable severity, applying quality decision rules, evaluating model behavior, and generating reproducible inspection reports.
 </p>
